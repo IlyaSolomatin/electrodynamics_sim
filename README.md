@@ -6,6 +6,7 @@ A Python simulator that computes and visualizes electromagnetic fields generated
 
 ## Overview
 
+![Alt text](demo.png)
 This project solves the full relativistic electromagnetic field equations for arbitrarily moving point charges. It handles retarded-time calculations, velocity-dependent (Coulomb) and acceleration-dependent (radiation) field components, and renders real-time animations of field evolution.
 
 ## Features
